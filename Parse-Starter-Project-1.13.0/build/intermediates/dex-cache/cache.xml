@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_05334838a2928c537c8e1bc7f5fa21d7f508fca9.jar" />
+    </item>
+    <item
+        jar="/home/foremost/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a/parse-android-1.13.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a">
+        <dex dex="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.13.1_31c8aac9accf7cbbc92ab0a4862191dbdeecdbbd.jar" />
+    </item>
+    <item
+        jar="/home/foremost/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_330d05669318fda5296e7218c09989d957d2bbef.jar" />
+    </item>
+    <item
+        jar="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_32e475996e9df4040206ea93f8b3d2338d9e83f9.jar" />
+    </item>
+    <item
+        jar="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_6bed909f8e00a3e29810c1ba0aa5d8c0382c6586.jar" />
+    </item>
+    <item
+        jar="/home/foremost/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_922ceaa21d61beff8ec311ce0e9eff0b8ef7c575.jar" />
+    </item>
+    <item
+        jar="/home/foremost/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_9592af7f0af7e838ee1949ca1d17da8f4e1df1ec.jar" />
+    </item>
+    <item
+        jar="/home/foremost/.gradle/caches/modules-2/files-2.1/com.parse/parseinterceptors/0.0.2/8c62746a7c33ffa044d9cd9c390a4c9d209b8925/parseinterceptors-0.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c62746a7c33ffa044d9cd9c390a4c9d209b8925">
+        <dex dex="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parseinterceptors-0.0.2_ab406e17402179a50f864ece68685fae58195e83.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="1901802803890"
+    token="7761841765423943155" >
+
+    <task
+        name="javac"
+        duration="3151" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="309" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1901802803890" >
+        <artifact
+            location="/home/foremost/Parse-Starter-Project-1.13.0/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
